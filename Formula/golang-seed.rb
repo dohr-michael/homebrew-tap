@@ -4,7 +4,7 @@ class GolangSeed < Formula
   homepage "https://github.com/dohr-michael/golang-seed"
   url "https://github.com/dohr-michael/golang-seed/releases/download/v0.0.1/golang-seed_0.0.1_Darwin_x86_64.tar.gz"
   version "0.0.1"
-  sha256 "316492d63517f8edc254bc2d256a0fff073346f7c4e989e3e186fd0f9811c6c9"
+  sha256 "e11617dd40c36a86188b4994c198acb540b88edf37036ae2616d28be5475b947"
 
   def install
     bin.install "golang-seed"
