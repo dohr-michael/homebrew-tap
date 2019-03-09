@@ -2,9 +2,9 @@
 class GolangSeed < Formula
   desc "Golang project starter"
   homepage "https://github.com/dohr-michael/golang-seed"
-  url "https://github.com/dohr-michael/golang-seed/releases/download/v0.0.1/golang-seed_0.0.1_Darwin_x86_64.tar.gz"
-  version "0.0.1"
-  sha256 "e11617dd40c36a86188b4994c198acb540b88edf37036ae2616d28be5475b947"
+  url "https://github.com/dohr-michael/golang-seed/releases/download/v1.0.0/golang-seed_1.0.0_Darwin_x86_64.tar.gz"
+  version "1.0.0"
+  sha256 "66434a24aab08094bab8ab69b477b7ead424196bd6d7a66251f27050d91c468c"
 
   def install
     bin.install "golang-seed"
